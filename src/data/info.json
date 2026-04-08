@@ -1,0 +1,49 @@
+{
+  "name": "El Tanteo",
+  "whatsapp": "34613050619",
+  "instagram": "eltanteo_restaurante",
+  "phone": "+34 613 05 06 19",
+  "address": "Calle de la Playa, 12, El Médano, Tenerife",
+  "es": {
+    "tagline": "Cocina honesta en un entorno único",
+    "location": "El Médano · Mar · Montaña Roja",
+    "about": {
+      "title": "Un lugar especial",
+      "content": "El Tanteo nace de la pasión por el detalle y el respeto al producto. Somos un restaurante pequeño e íntimo, donde cada mesa es una ventana al Atlántico y a la majestuosa Montaña Roja. Nuestra cocina es una mezcla de tradición española y toques modernos, siempre con el foco en la honestidad y la calidad.",
+      "highlight": "Un lugar donde comer bien, sin prisas, con vistas inmejorables."
+    },
+    "hours": [
+      { "days": "Lunes - Jueves", "time": "13:00 - 16:00 | 19:30 - 23:00" },
+      { "days": "Viernes - Sábado", "time": "13:00 - 23:30" },
+      { "days": "Domingo", "time": "13:00 - 17:00" }
+    ]
+  },
+  "en": {
+    "tagline": "Honest cuisine in a unique setting",
+    "location": "El Médano · Sea · Red Mountain",
+    "about": {
+      "title": "A special place",
+      "content": "El Tanteo is born from a passion for detail and respect for the product. We are a small and intimate restaurant, where every table is a window to the Atlantic and the majestic Red Mountain. Our cuisine is a mix of Spanish tradition and modern touches, always with a focus on honesty and quality.",
+      "highlight": "A place to eat well, without rushing, with unbeatable views."
+    },
+    "hours": [
+      { "days": "Monday - Thursday", "time": "1:00 PM - 4:00 PM | 7:30 PM - 11:00 PM" },
+      { "days": "Friday - Saturday", "time": "1:00 PM - 11:30 PM" },
+      { "days": "Sunday", "time": "1:00 PM - 5:00 PM" }
+    ]
+  },
+  "de": {
+    "tagline": "Ehrliche Küche in einer einzigartigen Umgebung",
+    "location": "El Médano · Meer · Roter Berg",
+    "about": {
+      "title": "Ein besonderer Ort",
+      "content": "El Tanteo entstand aus der Leidenschaft für Details und dem Respekt vor dem Produkt. Wir sind ein kleines und intimes Restaurant, in dem jeder Tisch ein Fenster zum Atlantik und zum majestätischen Roten Berg ist. Unsere Küche ist eine Mischung aus spanischer Tradition und modernen Akzenten, wobei Ehrlichkeit und Qualität stets im Mittelpunkt stehen.",
+      "highlight": "Ein Ort, um gut zu essen, ohne Eile, mit unschlagbarer Aussicht."
+    },
+    "hours": [
+      { "days": "Montag - Donnerstag", "time": "13:00 - 16:00 | 19:30 - 23:00" },
+      { "days": "Freitag - Samstag", "time": "13:00 - 23:30" },
+      { "days": "Sonntag", "time": "13:00 - 17:00" }
+    ]
+  }
+}

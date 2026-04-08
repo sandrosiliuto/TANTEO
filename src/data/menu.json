@@ -1,0 +1,107 @@
+{
+  "es": {
+    "title": "Nuestra Carta",
+    "subtitle": "Sabores de El Tanteo",
+    "description": "Una selección cuidada de platos elaborados con producto de temporada y mucha pasión.",
+    "footerNote": "Precios con IVA incluido · Producto de proximidad",
+    "categories": [
+      {
+        "id": "tapas-frias",
+        "title": "Tapas Frías",
+        "items": [
+          { "name": "Jamón Ibérico de Bellota", "price": "24€", "description": "Corte a cuchillo, acompañado de pan cristal con tomate." },
+          { "name": "Tabla de Quesos Canarios", "price": "18€", "description": "Selección de quesos premiados de las islas con mermeladas artesanas." },
+          { "name": "Carpaccio de Gamba Roja", "price": "21€", "description": "Aceite de lima, brotes tiernos y sal de escamas." },
+          { "name": "Ensaladilla El Tanteo", "price": "14€", "description": "Nuestra versión clásica con ventresca de atún y regañás." }
+        ]
+      },
+      {
+        "id": "tapas-calientes",
+        "title": "Tapas Calientes",
+        "items": [
+          { "name": "Croquetas de la Casa", "price": "12€", "description": "Sabor cambiante según mercado (6 unidades)." },
+          { "name": "Pulpo a la Brasa", "price": "22€", "description": "Sobre parmentier de patata trufada y pimentón de la Vera." },
+          { "name": "Berenjenas a la Miel", "price": "11€", "description": "Crujientes, con miel de palma y queso de cabra." }
+        ]
+      },
+      {
+        "id": "pasta-fresca",
+        "title": "Pasta Fresca",
+        "items": [
+          { "name": "Tagliatelle al Tartuffo", "price": "19€", "description": "Pasta artesana, crema de trufa negra y parmesano 24 meses." },
+          { "name": "Ravioli de Carrillera", "price": "20€", "description": "Rellenos de carne melosa con reducción de vino tinto." }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "title": "Our Menu",
+    "subtitle": "Flavors of El Tanteo",
+    "description": "A careful selection of dishes made with seasonal products and a lot of passion.",
+    "footerNote": "Prices include VAT · Local products",
+    "categories": [
+      {
+        "id": "tapas-frias",
+        "title": "Cold Tapas",
+        "items": [
+          { "name": "Acorn-fed Iberian Ham", "price": "24€", "description": "Hand-cut, served with crystal bread and tomato." },
+          { "name": "Canarian Cheese Board", "price": "18€", "description": "Selection of award-winning cheeses from the islands with artisan jams." },
+          { "name": "Red Prawn Carpaccio", "price": "21€", "description": "Lime oil, tender sprouts, and sea salt flakes." },
+          { "name": "El Tanteo Salad", "price": "14€", "description": "Our classic version with tuna belly and 'regañás'." }
+        ]
+      },
+      {
+        "id": "tapas-calientes",
+        "title": "Hot Tapas",
+        "items": [
+          { "name": "House Croquettes", "price": "12€", "description": "Changing flavor according to the market (6 units)." },
+          { "name": "Grilled Octopus", "price": "22€", "description": "On truffled potato parmentier and Pimentón de la Vera." },
+          { "name": "Honey Aubergines", "price": "11€", "description": "Crispy, with palm honey and goat cheese." }
+        ]
+      },
+      {
+        "id": "pasta-fresca",
+        "title": "Fresh Pasta",
+        "items": [
+          { "name": "Tagliatelle al Tartuffo", "price": "19€", "description": "Artisan pasta, black truffle cream, and 24-month parmesan." },
+          { "name": "Cheek Ravioli", "price": "20€", "description": "Filled with tender meat with a red wine reduction." }
+        ]
+      }
+    ]
+  },
+  "de": {
+    "title": "Unsere Karte",
+    "subtitle": "Aromen von El Tanteo",
+    "description": "Eine sorgfältige Auswahl an Gerichten, die mit saisonalen Produkten und viel Leidenschaft zubereitet werden.",
+    "footerNote": "Preise inkl. MwSt. · Regionale Produkte",
+    "categories": [
+      {
+        "id": "tapas-frias",
+        "title": "Kalte Tapas",
+        "items": [
+          { "name": "Iberischer Eichelschinken", "price": "24€", "description": "Handgeschnitten, serviert mit Kristallbrot und Tomate." },
+          { "name": "Kanarische Käseplatte", "price": "18€", "description": "Auswahl an preisgekrönten Käsesorten der Inseln mit handwerklichen Marmeladen." },
+          { "name": "Carpaccio von der Roten Garnele", "price": "21€", "description": "Limettenöl, zarte Sprossen und Meersalzflocken." },
+          { "name": "El Tanteo Salat", "price": "14€", "description": "Unsere klassische Version mit Thunfischbauch und 'regañás'." }
+        ]
+      },
+      {
+        "id": "tapas-calientes",
+        "title": "Warme Tapas",
+        "items": [
+          { "name": "Hausgemachte Kroketten", "price": "12€", "description": "Wechselnder Geschmack je nach Markt (6 Stück)." },
+          { "name": "Gegrillter Oktopus", "price": "22€", "description": "Auf getrüffeltem Kartoffel-Parmentier und Pimentón de la Vera." },
+          { "name": "Honig-Auberginen", "price": "11€", "description": "Knusprig, mit Palmhonig und Ziegenkäse." }
+        ]
+      },
+      {
+        "id": "pasta-fresca",
+        "title": "Frische Pasta",
+        "items": [
+          { "name": "Tagliatelle al Tartuffo", "price": "19€", "description": "Handgemachte Pasta, schwarze Trüffelcreme und 24 Monate gereifter Parmesan." },
+          { "name": "Bäckchen-Ravioli", "price": "20€", "description": "Gefüllt mit zartem Fleisch mit einer Rotweinreduktion." }
+        ]
+      }
+    ]
+  }
+}

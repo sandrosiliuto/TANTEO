@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Outfit", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+
+  --color-maroon: #8b2626;
+  --color-dark-bg: #141111;
+  --color-surface: #1c1818;
+  --color-cream: #e5e1da;
+  --color-ink: #fdfbf7;
+  --color-earth: #a68b6d;
+}
+
+@layer base {
+  body {
+    @apply bg-dark-bg text-cream font-sans antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display font-bold tracking-tighter;
+  }
+}
+
+.editorial-line {
+  @apply h-px bg-maroon/30 w-full;
+}
+
+.menu-column {
+  @apply flex flex-col gap-8;
+}
+
+.menu-item {
+  @apply flex flex-col gap-1;
+}
+
+/* Custom scrollbar for dark theme */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-dark-bg;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-maroon/30 rounded-full hover:bg-maroon/50 transition-colors;
+}
